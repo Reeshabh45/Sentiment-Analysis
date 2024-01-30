@@ -29,6 +29,42 @@ Make sure you have the following dependencies installed before running the code:
 - Word2Vec
 - [Other dependencies, if any]
 
-Install dependencies using the following command:
+## Usage
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/yourusername/sentiment-analysis.git
+    cd sentiment-analysis
+    ```
+
+2. **Train the model:**
+
+    ```bash
+    python train_model.py
+    ```
+
+    This script will preprocess the data, train the LSTM model, and save the trained model weights.
+
+3. **Evaluate the model:**
+
+    ```bash
+    python evaluate_model.py
+    ```
+
+    This script evaluates the trained model on a test dataset and provides accuracy metrics.
+
+4. **Make predictions:**
+
+    ```bash
+    python predict_sentiment.py "Your input text goes here."
+    ```
+
+    Replace "Your input text goes here." with the text you want to analyze. The script will output the predicted sentiment.
+
+## Results
+
+The model achieved [insert accuracy or other metrics] on the test dataset, demonstrating its effectiveness in sentiment analysis.
+
 
 ```bash
