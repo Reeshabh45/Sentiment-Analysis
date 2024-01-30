@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sentiment Analysis Project</title>
-</head>
-<body>
 
     <h1>Sentiment Analysis Project</h1>
 
@@ -64,6 +56,3 @@ cd sentiment-analysis</code></pre>
     </ul>
 
     <p>Feel free to contribute, report issues, or suggest improvements. Happy coding!</p>
-
-</body>
-</html>
