@@ -41,6 +41,8 @@ Make sure you have the following dependencies installed before running the code:
 ## Results
 
 The model achieved accuracy on the test dataset, demonstrating its effectiveness in sentiment analysis.
-79%
+
 
 ```bash
+79.35%
+```
